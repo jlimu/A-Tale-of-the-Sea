@@ -1,0 +1,6 @@
+nombre	Frank	&fin
+tienda	0
+Mision	2
+zona	4	4
+texto	Hola soy Frank, ¿podrías traerme piel de lobo? Tengo mucho frío &fin
+texto2	patatas fritas

@@ -1,0 +1,8 @@
+nombre	colgante perdido	&fin
+cantidad_max	1
+tipo	4
+vida	0
+ataque	0
+defensa	0
+dinero	0
+descripcion	Un colgante con una foto antigua. De quien sera?

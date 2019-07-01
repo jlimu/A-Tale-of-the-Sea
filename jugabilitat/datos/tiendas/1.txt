@@ -1,0 +1,5 @@
+CantidadObjetos	2
+Objeto	1
+Precio	-5
+Objeto	3
+Precio	-100

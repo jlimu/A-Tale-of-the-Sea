@@ -1,0 +1,4 @@
+id	0
+vida	5
+defensa	6
+dany	7

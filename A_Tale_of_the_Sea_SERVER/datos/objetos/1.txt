@@ -1,0 +1,8 @@
+nombre	pocion de vida &fin
+cantidad_max	10
+tipo	2
+vida	2
+ataque	0
+defensa	0
+dinero	10
+descripcion	Cura 2 puntos de vida

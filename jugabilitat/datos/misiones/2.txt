@@ -1,0 +1,14 @@
+nombre	Encuentra la piel de lobo	&fin
+NPC	3
+objetoID	6
+cantidad	1
+enemigos	0
+cantidad	0
+zona	4	4
+activa	0
+completada	0
+ObjRecompensa	2
+ObjCantidad	1
+DineroRecomp	10
+descripccion	Frank te ha pedido que le traigas una piel de lobo	&fin
+textoComplet	Gracias! Ahora podré protegerme del frío.

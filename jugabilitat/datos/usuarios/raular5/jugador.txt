@@ -1,0 +1,10 @@
+PosX	0
+PosY	4
+nombre	raular5
+vida	7
+vidaMax	10
+ataque	5
+defensa	3
+dinero	200
+arma	0
+armadura	0

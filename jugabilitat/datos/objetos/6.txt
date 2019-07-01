@@ -1,0 +1,8 @@
+nombre	Carne de perro &fin
+cantidad_max	3
+tipo	2
+vida	4
+ataque	0
+defensa	0
+dinero	10
+descripcion	Restaura 4 puntos de vida si se ingiere

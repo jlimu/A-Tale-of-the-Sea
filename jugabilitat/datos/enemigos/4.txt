@@ -1,0 +1,7 @@
+nombre	Lobo	&fin
+daño	1
+vida	5
+drop	7
+cantidad	1
+dinero	5
+descripcion	Un lobo salvaje

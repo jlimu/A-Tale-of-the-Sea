@@ -1,0 +1,7 @@
+nombre	Bilbo	&fin
+tienda	0
+Mision	1
+zona	0	4
+texto1	Hey, podrias ayudarme? He perdido un colgante, si lo encuentras y me lo traes te dare algo muy valioso. Gracias.	&fin
+texto2	Gracias por traerme el colgante, suerte con tu aventura.
+

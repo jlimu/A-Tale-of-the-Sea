@@ -1,0 +1,7 @@
+nombre	Perro	&fin
+daño	1
+vida	5
+drop	6
+cantidad	1
+dinero	3
+descripcion	Un perro salvaje

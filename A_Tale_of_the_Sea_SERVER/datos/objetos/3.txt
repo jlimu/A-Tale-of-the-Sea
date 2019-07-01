@@ -1,0 +1,8 @@
+nombre	piel de oso &fin
+cantidad_max	99
+tipo	3
+vida	0
+ataque	0
+defensa	0
+dinero	5
+descripcion	Utiles para hacer un abrigo

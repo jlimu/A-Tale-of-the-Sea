@@ -1,0 +1,8 @@
+nombre	null	&fin
+cantidad_max	0
+tipo	0
+vida	0
+ataque	0
+defensa	0
+dinero	0
+descripcion	null

@@ -1,0 +1,7 @@
+nombre	null	&fin
+daño	0
+vida	0
+drop	0
+cantidad	0
+dinero	0
+descripcion	null

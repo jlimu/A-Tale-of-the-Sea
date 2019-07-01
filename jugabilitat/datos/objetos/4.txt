@@ -1,0 +1,8 @@
+nombre	abrigo &fin
+cantidad_max	1
+tipo	1
+vida	0
+ataque	0
+defensa	1
+dinero	100
+descripcion	Te proteje del frio (Def+1)

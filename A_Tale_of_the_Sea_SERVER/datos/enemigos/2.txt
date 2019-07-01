@@ -1,0 +1,7 @@
+nombre	pez magico &fin
+daño	1
+vida	2
+drop	1
+cantidad	1
+dinero	1
+descripcion	Un pez magico, suelen llevar pociones encima

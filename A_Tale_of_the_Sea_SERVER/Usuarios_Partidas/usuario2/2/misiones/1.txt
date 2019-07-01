@@ -1,0 +1,14 @@
+nombre	Encuentra el colgante perdido	&fin
+NPC	1
+objetoID	5
+cantidad	1
+enemigos	0
+cantidad	0
+zona	3	0
+activa	0
+completada	0
+ObjRecompensa	2
+ObjCantidad	1
+DineroRecomp	10
+descripccion	Bilbo te ha pedido que encuentres su colgante, seguramente este en una isla del noreste.	&fin
+textoComplet	MUCHAS GRACIAS! Aqui tienes una llave, dicen que puede abrir tesoros.

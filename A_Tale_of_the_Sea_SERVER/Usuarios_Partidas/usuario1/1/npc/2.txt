@@ -1,0 +1,6 @@
+nombre	Nedra	&fin
+tienda	1
+Mision	0
+zona	1	2
+texto1	Hola, me llamo Nedra y soy la vendedora de esta ilsa. Te interesa algo?	&fin
+texto2

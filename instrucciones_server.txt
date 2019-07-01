@@ -1,0 +1,4 @@
+1. Abre una terminal de linux en la carpeta "A_Tale_of_the_Sea_SERVER"
+2. Escribe "./ATotS" y pulsa ENTER
+3. Abre otra terminal de linux
+4. Escribe "telnet localhost 8888" y pulsa ENTER

@@ -1,0 +1,5 @@
+id 1 nom jugador1
+id 2 nom jugador2
+id 3 nom [BUIT]
+id 4 nom [BUIT]
+id 5 nom [BUIT]

@@ -1,0 +1,7 @@
+nombre	oso	&fin
+daño	2
+vida	7
+drop	3
+cantidad	2
+dinero	10
+descripcion	Solo un oso salvaje

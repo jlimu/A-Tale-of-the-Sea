@@ -1,0 +1,6 @@
+Tipo	1
+Enemigos	1
+NPC	0
+Tesoro	0
+Objeto	1
+Cantidad	2

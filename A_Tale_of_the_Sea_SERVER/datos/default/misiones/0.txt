@@ -1,0 +1,14 @@
+nombre	null	&fin
+NPC	0
+objetoID	0
+cantidad	0
+enemigos	0
+cantidad	0
+zona	0	0
+activa	0
+completada	0
+ObjRecompensa	0
+ObjCantidad	0
+DineroRecomp	0
+descripccion	null	&fin
+textoComplet	null
